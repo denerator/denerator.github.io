@@ -13,6 +13,7 @@
   - ES5/ES6
   - Sass
   - Gulp
+  - Git
   - Wordpress
   - Photoshop
   - Кроссбраузерная , валидная верстка
