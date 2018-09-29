@@ -10,6 +10,7 @@
   - HTML 
   - CSS
   - Js (jQuery)
+  - ES5/ES6
   - Sass
   - Gulp
   - Wordpress
