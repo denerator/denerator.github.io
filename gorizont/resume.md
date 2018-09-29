@@ -1,4 +1,4 @@
-# ЧЕРНОВ ДЕНИС - HTML верстальщик
+# ЧЕРНОВ ДЕНИС - Junior Front-End Developer
 ***
 
 
