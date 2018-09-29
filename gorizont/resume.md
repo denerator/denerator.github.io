@@ -17,6 +17,8 @@
   - Кроссбраузерная , валидная верстка
   - Bootstrap 3,4
   - Flexbox
+  - React
+  - Redux
 
 # Experience
 ***
